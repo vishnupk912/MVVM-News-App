@@ -11,6 +11,8 @@ import kotlinx.android.synthetic.main.itemlay_newheadlines.view.*
 class NewsDetailsPage : AppCompatActivity() {
 
     var urlimage:String?=null
+
+
     var description:String?=null
     var title:String?=null
 
